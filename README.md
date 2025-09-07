@@ -1,7 +1,3 @@
-Aquí tienes un **README completo y bien estructurado** para tu proyecto en Rust:
-
----
-
 # 🧬 Algoritmo Genético para el Problema de la Mochila (Knapsack)
 
 Este proyecto implementa el **clásico problema de optimización de la mochila (Knapsack Problem)** utilizando **algoritmos genéticos** en **Rust**.

@@ -93,14 +93,3 @@ cargo run
 
 [+] Mejor combinación encontrada en 7 generaciones: [Element { weight: 2.0, benefit: 2.0 }, Element { weight: 1.0, benefit: 2.0 }, Element { weight: 4.0, benefit: 10.0 }]
 ```
-
----
-
-## 📚 Referencias
-
-* [Algoritmos Genéticos - Teoría y Aplicaciones](https://es.wikipedia.org/wiki/Algoritmo_gen%C3%A9tico)
-* [Knapsack Problem (Problema de la Mochila)](https://es.wikipedia.org/wiki/Problema_de_la_mochila)
-
----
-
-¿Quieres que también incluya en el README **un diagrama del flujo del algoritmo genético** (en formato ASCII o imagen generada) y **una explicación visual de la estructura del cromosoma y operadores**? ¿O prefieres mantenerlo solo textual?
